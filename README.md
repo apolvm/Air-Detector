@@ -16,5 +16,10 @@ The BME680 Sensor is connected to a Particle-Argon microcontroller :
 
 ![IMG_5245](https://user-images.githubusercontent.com/52417292/60935779-a5abc980-a290-11e9-9c99-a80009c7f41c.jpg)
 
+This is how the sensor and the microcontroller is connected:
+
+<img width="1051" alt="Screen Shot 2019-07-11 at 12 36 10 PM" src="https://user-images.githubusercontent.com/52417292/61072331-a9e2fe80-a3d8-11e9-80f7-339133c64d0e.png">
+
+
 Here is the direct link to the code in Particle:
 https://go.particle.io/shared_apps/5d1f98296a523d0022aaa347
